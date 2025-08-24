@@ -25,11 +25,7 @@ Testing:
 
 
 <img src="screenshots/Zrzut ekranu 2025-08-24 o 15.09.21.png" alt="Podgląd aplikacji" width="600">
-<img src="Zrzut ekranu 2025-08-24 o 15.09.38.png" alt="Podgląd aplikacji" width="600">
-<img src="screenshots/Zrzut ekranu 2025-08-24 o 15.09.21.pn" alt="Podgląd aplikacji" width="600">
-<img src="screenshots/Zrzut ekranu 2025-08-24 o 15.09.21.png" alt="Podgląd aplikacji" width="600">
-<img src="screenshots/Zrzut ekranu 2025-08-24 o 15.09.21.png" alt="Podgląd aplikacji" width="600">
-<img src="screenshots/Zrzut ekranu 2025-08-24 o 15.09.21.png" alt="Podgląd aplikacji" width="600">
+<img src="screenshots/Zrzut ekranu 2025-08-24 o 15.09.38.png" alt="Podgląd aplikacji" width="600">
 
 
 ## Features
