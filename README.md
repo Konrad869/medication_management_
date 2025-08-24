@@ -1,5 +1,12 @@
 Medication Manager – Your everyday support in staying healthy In today’s busy world, it’s easy to forget to take medications, supplements, or vitamins on time. This can be especially challenging for people with chronic illnesses, seniors, or anyone managing multiple prescriptions. Missed doses, mix-ups, and lack of treatment tracking are common problems. Medication Manager is a simple and intuitive app that solves these issues. With it, you can: Keep all your medications organized in one place Set personalized schedules and reminders so you never miss a dose Receive notifications exactly when it’s time to take your medication Mark medications as “taken” and maintain a clear history of your intake Add notes to share with your doctor or pharmacist The app makes daily health management easier, giving you peace of mind and confidence that your treatment is on track.
 
+Features
+Add, edit, and delete medications
+Set medication schedules and dosages
+View medication history
+Simple and intuitive user interface
+Responsive design
+
 
 
 
