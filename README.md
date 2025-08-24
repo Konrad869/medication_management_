@@ -1,5 +1,28 @@
 Medication Manager – Your everyday support in staying healthy In today’s busy world, it’s easy to forget to take medications, supplements, or vitamins on time. This can be especially challenging for people with chronic illnesses, seniors, or anyone managing multiple prescriptions. Missed doses, mix-ups, and lack of treatment tracking are common problems. Medication Manager is a simple and intuitive app that solves these issues. With it, you can: Keep all your medications organized in one place Set personalized schedules and reminders so you never miss a dose Receive notifications exactly when it’s time to take your medication Mark medications as “taken” and maintain a clear history of your intake Add notes to share with your doctor or pharmacist The app makes daily health management easier, giving you peace of mind and confidence that your treatment is on track.
 
+
+
+
+
+💻 Tech Stack:
+
+
+
+Angular_Design is developed using following technologies:
+
+
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+Testing:
+
+
+![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
+<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> 
+
+
+
 ## Features
 
 - Add, edit, and delete medications
