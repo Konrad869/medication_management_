@@ -25,12 +25,11 @@ Testing:
 
 
 <img src="screenshots/Zrzut ekranu 2025-08-24 o 15.09.21.png" alt="Podgląd aplikacji" width="600">
-
-<img src="zrzuty ekranu/Zrzut ekranu 2025-02-17 o 18.20.41.png" alt="Alt text">  
-<img src="zrzuty ekranu/Zrzut ekranu 2025-02-17 o 18.20.52.png" alt="Alt text">  
-<img src="zrzuty ekranu/Zrzut ekranu 2025-02-17 o 18.21.13.png" alt="Alt text"> 
-<img src="zrzuty ekranu/Zrzut ekranu 2025-02-17 o 18.21.24.png" alt="Alt text">  
-<img src="zrzuty ekranu/Zrzut ekranu 2025-02-17 o 18.21.24.png" alt="Alt text">  
+<img src="Zrzut ekranu 2025-08-24 o 15.09.38.png" alt="Podgląd aplikacji" width="600">
+<img src="screenshots/Zrzut ekranu 2025-08-24 o 15.09.21.pn" alt="Podgląd aplikacji" width="600">
+<img src="screenshots/Zrzut ekranu 2025-08-24 o 15.09.21.png" alt="Podgląd aplikacji" width="600">
+<img src="screenshots/Zrzut ekranu 2025-08-24 o 15.09.21.png" alt="Podgląd aplikacji" width="600">
+<img src="screenshots/Zrzut ekranu 2025-08-24 o 15.09.21.png" alt="Podgląd aplikacji" width="600">
 
 
 ## Features
